@@ -1,0 +1,50 @@
+# Primeiro repositório criado no Git
+
+### Comandos para não esquecer  :computer: :woman_technologist:
+
+mkdir: criação de pasta no diretório
+
+cd: alterar diretório atual
+
+ls -  listar diretório
+
+ls -a: mostra os arquivos ocultos 
+
+git init: iniciar o repositório dentro do Git
+
+git add .: adicionar todas as alterações para commit *(untracked)*
+
+git pull: trazer as informações do projeto do GitHub
+
+git push: levar as informações já "comitadas" para o projeto no GitHub
+
+git commit: prepara od arquivos alterados para envio ao Git
+
+git status: verifica o status das alterações realizadas
+
+git clone: clona o repositório do GitHub
+
+git reset: resetar os arquivos que foram adicionados para commit
+
+### Primeiro comando durante o curso, criando um repositório:
+
+*cd* workspace/
+
+*mkdir* exemplo-curso
+
+*cd* exemplo-curso/
+
+
+
+*git init*
+
+*ls -a*
+
+*cd .git/*
+
+
+
+
+
+
+
