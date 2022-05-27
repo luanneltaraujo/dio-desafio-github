@@ -18,7 +18,7 @@ git pull: trazer as informações do projeto do GitHub
 
 git push: levar as informações já "comitadas" para o projeto no GitHub
 
-git commit: prepara od arquivos alterados para envio ao Git
+git commit: prepara os arquivos alterados para envio ao Git
 
 git status: verifica o status das alterações realizadas
 

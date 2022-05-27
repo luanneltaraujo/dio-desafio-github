@@ -1,0 +1,7 @@
+Git:
+
+https://git-scm.com/downloads
+
+Typora:
+
+https://typora.br.uptodown.com/windows/download
